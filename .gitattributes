@@ -1,1 +1,2 @@
+*.wdb filter=lfs diff=lfs merge=lfs -text
 project_bcd/project_bcd.sim/sim_1/behav/xsim/bcd_behav.wdb filter=lfs diff=lfs merge=lfs -text
